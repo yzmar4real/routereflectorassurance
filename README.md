@@ -76,7 +76,7 @@ source bin/activate
 
 1. Execute the main script from console
 
-python3 IOS_Master.py
+python3 Scrips/Main.py
 
 ## Outputs
 
