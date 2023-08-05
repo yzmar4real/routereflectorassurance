@@ -95,6 +95,6 @@ python3 Scrips/Main.py
 
 ## Outputs
 
-!(OutputScreenShot1.PNG)
-(OutputScreenShot2.PNG)
-!(OutputScreenShot3.PNG)
+![SampleOutcomes001](OutputScreenShot1.png)
+![SampleOutcomes002](OutputScreenShot2.png)
+![SampleOutcomes003](OutputScreenShot3.png)
