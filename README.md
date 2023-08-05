@@ -1,15 +1,15 @@
 # routereflectorassurance
 Using Cisco's PyATS framework to develop Network Assurance testing for BGP route reflectors.
 
-Python Code that allows Network Engineers to run through their existing infrastructure running IOS Software using discovery commands to establish a baseline of the infrastructure state with saved CSV files to show physical connectivity, mac-addresses, etc.
+Python Code that allows Network Engineers to run through their existing infrastructure running IOSXE Software using commands to check the BGP peering states, as well as comparing the routes on various route reflectors that are part of the Testbed file.
  
 ## Overview
 
- Python Code that allows Network Engineers to run through their existing infrastructure running IOS Software using discovery commands to establish a baseline of the infrastructure state with saved CSV files to show physical connectivity, mac-addresses, etc. 
+ Python Code that allows Network Engineers to run through their existing infrastructure running IOSXE Software to validate BGP route reflector routes as well as BGP peering.
 
 ## Use Case Description
 
-This use case is particularly helpful in validating network documentation as well as for Engineers who have joined new networks without any basline documentation as a reference. PYATS's modular methods with parsing makes it incredibly easy to target specific datasets and document within CSV format. 
+This use case is particularly helpful in validating network routing information for adjacencies in route reflectors to ensure full convergence and user stability. It stores the outcomes in a csv and json file respectively.
 
 **Python**
 
