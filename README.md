@@ -60,7 +60,7 @@ Storing BGP Peers: The BGP peers information is stored in a JSON file for future
 https://docs.docker.com/get-docker/
 ```
 
-3. Download the latest version of the PYATS from docker hub
+2. Download the latest version of the PYATS from docker hub
 
 ```
 $ docker pull ciscotestautomation/pyats:latest
